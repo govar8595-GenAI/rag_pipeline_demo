@@ -2,7 +2,6 @@
 
 > Upload any PDF. Ask anything. Get intelligent answers.
 
-Built as part of **Batch 6 | Week 3 | Day 1** of the Social Eagle Generative AI Course.
 
 ## 🚀 RAG Pipeline
 ```
